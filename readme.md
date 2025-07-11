@@ -1,8 +1,4 @@
-Trilha de Estudos Interativa - Preparatório TOTVS Moda
-Descrição Curta (para o campo "About" do GitHub)
-Uma página web interativa e responsiva que organiza a playlist de vídeos do "Preparatório Certificação ASSOCIATE - TOTVS Moda" em uma trilha de estudos lógica. Inclui acompanhamento de progresso individual salvo localmente no navegador.
 
-README.md
 🚀 Trilha de Estudos Interativa - Preparatório TOTVS Moda
 Bem-vindo à Trilha de Estudos Interativa para a Certificação TOTVS Moda! Este projeto organiza a playlist oficial de vídeos de preparação da TOTVS em uma página web amigável, estruturada em módulos lógicos que seguem o fluxo de trabalho de um sistema de gestão (ERP).
 
@@ -31,7 +27,8 @@ Abra o arquivo index.html (ou o nome que você deu ao arquivo HTML) em qualquer 
 Pronto! Comece seus estudos.
 
 ⚙️ Ferramenta: Script para Extração de Vídeos da Playlist
-Para manter a trilha de estudos atualizada, você pode usar o script abaixo para extrair todos os títulos e links de uma playlist do YouTube diretamente para um arquivo CSV.
+
+Script Utilizado para Extração da Playlist no Youtube.
 
 Instruções:
 
@@ -124,7 +121,7 @@ async function extrairVideosDaPagina() {
 extrairVideosDaPagina();
 
 💻 Tecnologias Utilizadas
-Este projeto foi construído com tecnologias web padrões, sem a necessidade de um back-end.
+Este projeto foi construído com tecnologias web padrões, sem a necessidade de um back-end e uso de IA para Organizar a lista.
 
 HTML5: Para a estrutura da página.
 
