@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trilha-tm.rouglas.com/sitemap.xml
